@@ -1,6 +1,3 @@
-To activate the assets in the Talos deploy package: 
-
-   from talos.commands.restore import Restore 
-   a = Restore('path_to_asset')
-
-Now you will have an object similar to the Scan object, which can be used with other Talos commands as you would be able to with the Scan object
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ddb5563f64cde2127492ba7daf91945a2bc8751ddaaf15d1a76919f125ac2a
+size 278
