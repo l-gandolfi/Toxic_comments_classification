@@ -1,0 +1,10 @@
+experiment_name,toxic_comments
+random_method,uniform_mersenne
+reduction_method,forrest
+reduction_interval,50
+reduction_window,20
+reduction_threshold,0.2
+reduction_metric,val_fmeasure
+complete_time,01/08/20/00:22
+x_shape,"(127656, 768)"
+y_shape,"(127656, 6)"
